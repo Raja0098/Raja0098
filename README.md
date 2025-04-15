@@ -1,16 +1,20 @@
-## Hi there 👋
+👋 Hi there! I'm Raja Kumar
+🎓 B.S. in Data Science and Applications, IIT Madras (2021–2025)
+🎯 GATE Qualified – Computer Science & Data Science
 
-<!--
-**Raja0098/Raja0098** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Skills:
+Python, Java, SQL, JavaScript, R, Bash, C, HTML/CSS, Matlab
+🧠 Pandas, NumPy, Scikit-learn, SciPy, Flask, Vue.js, Git, Linux
+📊 Data Analysis | Machine Learning | Statistical Analysis | Visualization
 
-Here are some ideas to get you started:
+🏆 Certifications:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+IIM Bangalore: People Management, Corporate Finance, Strategic Management
+
+University of Michigan: Python for Everybody Specialization
+
+🌟 About Me:
+I'm passionate about using data to tackle real-world challenges. With a solid background in statistics, ML, and software engineering, I love transforming complex data into actionable insights.
+
+📫 Let’s Connect:
+Explore my repositories and feel free to reach out for collaborations in data science or ML!
